@@ -1,0 +1,31 @@
+th{
+    color: lightskyblue;
+    font-size: 29px;
+}
+h2{
+    color: red; 
+   
+}
+a:hover{
+    color:red
+}
+h1{
+    text-align: center;
+    text-decoration: solid rgb(255, 255, 255) underline;
+    font-size: 60px;
+}
+body{
+ background: rgb(2,0,36);
+ background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 0%, rgba(9,9,121,1) 100%);;
+ color: white;
+}
+p{
+    color: white;
+}
+a{
+    color: lightgray;
+}
+.pause-dej{
+    color: greenyellow;
+    font-weight: bold;
+}
