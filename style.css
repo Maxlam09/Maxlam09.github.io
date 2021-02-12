@@ -1,3 +1,6 @@
+html, body{
+    min-height: 100%;   
+}
 th{
     color: lightskyblue;
     font-size: 29px;
